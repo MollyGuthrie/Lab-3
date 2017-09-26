@@ -1,0 +1,7 @@
+c:\users\guthrim\source\repos\Lab3v2\Lab3v2\bin\Debug\Lab3v2.exe.config
+c:\users\guthrim\source\repos\Lab3v2\Lab3v2\bin\Debug\Lab3v2.exe
+c:\users\guthrim\source\repos\Lab3v2\Lab3v2\bin\Debug\Lab3v2.pdb
+c:\users\guthrim\source\repos\Lab3v2\Lab3v2\obj\Debug\Lab3v2.csprojResolveAssemblyReference.cache
+c:\users\guthrim\source\repos\Lab3v2\Lab3v2\obj\Debug\Lab3v2.csproj.CoreCompileInputs.cache
+c:\users\guthrim\source\repos\Lab3v2\Lab3v2\obj\Debug\Lab3v2.exe
+c:\users\guthrim\source\repos\Lab3v2\Lab3v2\obj\Debug\Lab3v2.pdb
